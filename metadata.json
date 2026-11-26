@@ -1,0 +1,6 @@
+{
+  "name": "AI College Assistant",
+  "description": "Smart Campus Assistant powered by Retrieval-Augmented Generation for instant, citation-backed answers from official college documents.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
